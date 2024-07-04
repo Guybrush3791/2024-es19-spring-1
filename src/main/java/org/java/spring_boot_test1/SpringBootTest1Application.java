@@ -17,10 +17,5 @@ public class SpringBootTest1Application implements CommandLineRunner {
 
 		Square s1 = new Square(5);
 		System.out.println(s1);
-
-		// TODO:
-		// implementare la classe Rectangle con getArea e getPerimetro all'interno
-		// di un sotto-package della classe principale
-		// testare la classe Rectangle
 	}
 }
